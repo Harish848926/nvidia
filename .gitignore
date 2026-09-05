@@ -1,0 +1,37 @@
+# Environment variables & secrets (CRITICAL: Never commit secrets)
+.env
+*.env
+.env.*
+!.env.example
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.cache/
+
+# Datasets and image files (keep repo fast and lightweight)
+**/data/plantvillage/
+**/data/samples/
+*.jpg
+*.jpeg
+*.png
+*.webp
+
+# PyTorch weights / checkpoints
+*.pth
+*.pt
+*.bin
+*.onnx
+
+# Python Virtual Environments
+venv/
+env/
+.venv/
+
+# IDE & System files
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

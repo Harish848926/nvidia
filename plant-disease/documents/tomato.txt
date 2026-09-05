@@ -1,0 +1,136 @@
+================================================================================
+TOMATO CROP AGRONOMY AND PATHOLOGY KNOWLEDGE BASE
+Reference Manual for Plant Disease Diagnosis, Management & Agronomic Interventions
+================================================================================
+
+1. OVERVIEW OF TOMATO (Solanum lycopersicum)
+Tomato is one of the most widely cultivated solanaceous crops worldwide. It is highly sensitive
+to fungal leaf blights, bacterial infections, and viral complexes, particularly in humid or overhead-irrigated environments.
+Optimal growing conditions: daytime temperatures between 21°C and 29°C, well-draining loam soil with pH 6.2–6.8, and 6–8 hours of full sun.
+
+--------------------------------------------------------------------------------
+2. TOMATO EARLY BLIGHT (Alternaria solani / Alternaria linariae)
+--------------------------------------------------------------------------------
+Pathogen Type: Fungal pathogen.
+Biology & Spread: Overwinters on infected plant debris and solanaceous weeds. Spores spread via splashing water, wind, insects, and contaminated tools. Favored by warm temperatures (24°C–29°C) accompanied by heavy dews or frequent rains.
+
+Visual Symptoms:
+- Starts on older, lower foliage near the soil line.
+- Produces dark brown to black circular or irregular lesions with characteristic concentric rings, creating a "target board" appearance.
+- Yellow chlorotic halos develop around lesions.
+- In severe infestations, foliage yellows, withers, and drops (defoliation), exposing fruit to sunscald.
+- Sunken, dark, leathery lesions with concentric rings can also form at the stem-end of mature fruit.
+
+Severity Level: Moderate to High. Can reduce yield by 30–50% if unmanaged.
+
+Organic Treatments:
+- Apply liquid copper octanoate (copper soap) or fixed copper fungicides every 7–10 days beginning at transplanting.
+- Foliar sprays of biofungicides containing Bacillus subtilis (e.g., Serenade ASO) or Trichoderma harzianum.
+- Apply neem seed oil (70% clarified hydrophobic extract) as a preventative surface barrier.
+- Prune the bottom 12 to 18 inches of foliage once plants reach 3 feet tall to prevent soil splash.
+- Apply 2–3 inches of clean organic straw mulch around the root zone.
+
+Chemical Treatments:
+- Protective contact fungicides: Chlorothalonil (e.g., Bravo Weather Stik) or Mancozeb applied every 7–10 days.
+- Systemic / Translaminar rescue fungicides: Azoxystrobin (Quadris), Pyraclostrobin (Cabrio), or Boscalid (Endura).
+- Resistance Management: Alternate FRAC group 11 (QoI strobilurins) with FRAC group 7 (SDHI) fungicides to prevent fungal resistance.
+
+Preventive Agronomic Practices:
+- Implement a 3-to-4-year crop rotation avoiding tomato, potato, eggplant, and pepper.
+- Ensure wide plant spacing (24–36 inches apart) and stake or cage plants for maximum airflow.
+- Use drip irrigation exclusively; avoid overhead sprinklers that keep foliage wet.
+
+--------------------------------------------------------------------------------
+3. TOMATO LATE BLIGHT (Phytophthora infestans)
+--------------------------------------------------------------------------------
+Pathogen Type: Oomycete (water mold).
+Biology & Spread: Extremely aggressive and devastating pathogen. Can destroy an entire field within 3 to 6 days. Thrives in cool (15°C–22°C), wet, foggy, or humid weather (>90% relative humidity).
+
+Visual Symptoms:
+- Pale green to grayish, water-soaked, irregular lesions on leaves and stems.
+- Lesions rapidly expand and turn purplish-brown to dark necrotic black.
+- Under humid morning conditions, a delicate, frosty white fungal-like fuzz (sporangiophores) appears on leaf undersides.
+- Petioles and stems collapse, emitting a foul, rotting odor.
+- Fruits develop large, firm, greasy-looking bronze or olive-brown blotches.
+
+Severity Level: CRITICAL / Extreme Emergency. Immediate intervention required.
+
+Organic Treatments:
+- Strict preventative copper hydroxide or Bordeaux mixture applications ahead of forecasted cool rain events.
+- Once late blight is established, organic curative options are virtually non-existent; immediately bag and pull infected plants.
+- Burn or deeply bury (>3 feet) infected vines; NEVER compost late blight material.
+
+Chemical Treatments:
+- Systemic targeted fungicides: Cyazofamid (Ranman - FRAC 21), Mandipropamid (Revus - FRAC 40), Fluopicolide (Presidio - FRAC 43), or Metalaxyl-M (Ridomil Gold - FRAC 4).
+- Tank mix systemic agents with protective multi-site fungicides like Mancozeb or Chlorothalonil to prolong efficacy and curb resistance.
+
+Preventive Agronomic Practices:
+- Plant certified late blight-resistant cultivars (e.g., Mountain Magic, Defiant PHR, Plum Regal, Iron Lady).
+- Monitor regional spore forecasting alerts (e.g., BlightWatch / USABlight).
+- Eliminate volunteer potato and tomato plants and nightshade weeds near greenhouse perimeter.
+
+--------------------------------------------------------------------------------
+4. TOMATO BACTERIAL SPOT (Xanthomonas spp.)
+--------------------------------------------------------------------------------
+Pathogen Type: Bacterium (Xanthomonas perforans, X. euvesicatoria, X. vesicatoria, X. gardneri).
+Biology & Spread: Seed-borne and survives on volunteer plants and crop residue. Disseminated by rain splash, overhead irrigation, and handling wet plants. Favored by warm (25°C–30°C) and rainy weather.
+
+Visual Symptoms:
+- Small (less than 3 mm), dark, water-soaked circular spots on foliage.
+- Spots turn angular, blackish-brown, often surrounded by a distinct yellow ring.
+- Centers of lesions may dry out and tear, creating a ragged "shot-hole" appearance.
+- Foliage turns yellow, scorches, and defoliates prematurely.
+- Fruit develops small, raised blister-like brown scabs that turn rough and cratered.
+
+Severity Level: High. Significantly degrades fruit marketability and plant vigor.
+
+Organic Treatments:
+- Apply liquid fixed copper fungicides combined with bio-fungicides like Bacillus amyloliquefaciens.
+- Spray actigard-compatible bio-stimulants that trigger systemic acquired resistance (SAR).
+- Prune lower infected leaves only when vines are completely dry during sunny afternoons.
+
+Chemical Treatments:
+- Tank mixture of copper hydroxide and Mancozeb (Mancozeb enhances copper bioavailability, releasing more bactericidal copper ions).
+- Apply Kasugamycin (Kasumin 2L) in commercial production where permitted.
+- Bacteriophage treatments targeting specific Xanthomonas strains.
+
+Preventive Agronomic Practices:
+- Use certified pathogen-free seeds treated with hot water (50°C for 25 minutes) or 1.3% sodium hypochlorite.
+- Sanitize pruning shears, stakes, cages, and seedling trays with 10% household bleach or quaternary ammonium.
+- Strictly avoid handling, tying, or cultivating plants when foliage is wet.
+
+--------------------------------------------------------------------------------
+5. TOMATO LEAF MOLD (Passalora fulva / Cladosporium fulvum)
+--------------------------------------------------------------------------------
+Pathogen Type: Fungal pathogen.
+Biology & Spread: Prevalent in greenhouses, poly-tunnels, and high tunnels with poor ventilation. Thrives at relative humidity >85% and temperatures of 21°C–24°C.
+
+Visual Symptoms:
+- Diffuse pale green to bright yellow spots on upper leaf surfaces with indistinct margins.
+- A dense, velvety olive-green to grayish-purple fungal layer develops on the corresponding underside of the leaf.
+- Lower leaves are infected first, turning brown, curling, and dropping prematurely.
+
+Severity Level: Moderate in open field; High in greenhouse cultivation.
+
+Organic Treatments:
+- Potassium bicarbonate (Kaligreen) sprays applied at first sign of fuzzy growth.
+- Copper octanoate or neem extract.
+- Strip and destroy all lower leaves bearing fungal sporulation.
+
+Chemical Treatments:
+- Chlorothalonil, Mancozeb, or Difenoconazole (Inspire).
+- Cyprodinil + Fludioxonil (Switch) for greenhouse high tunnels.
+
+Preventive Agronomic Practices:
+- Maintain greenhouse relative humidity strictly below 85% using exhaust fans and horizontal airflow fans.
+- Heat greenhouse slightly at dawn to prevent condensation on leaf surfaces.
+- Prune indeterminate sucker shoots regularly to maintain open canopy structure.
+
+--------------------------------------------------------------------------------
+6. TOMATO HEALTHY FOLIAGE CARE
+--------------------------------------------------------------------------------
+Foliage Characteristics: Dark green, turgid serrated leaves, sturdy central stems, no lesions, yellowing, or deformities.
+Nutritional Guidelines:
+- Balanced nitrogen-phosphorus-potassium (NPK 5-10-10 or 8-16-16) to promote fruit setting over excessive vegetative growth.
+- Ensure consistent soil moisture and calcium supplementation (gypsum or calcium nitrate) to prevent blossom-end rot.
+- Apply mycorrhizal fungi and compost tea every 3 weeks for robust root immunity.

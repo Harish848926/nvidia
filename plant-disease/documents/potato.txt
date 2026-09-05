@@ -1,0 +1,93 @@
+================================================================================
+POTATO CROP AGRONOMY AND PATHOLOGY KNOWLEDGE BASE
+Reference Manual for Potato Foliar and Tuber Disease Management
+================================================================================
+
+1. OVERVIEW OF POTATO (Solanum tuberosum)
+Potato is a vital root and tuber staple grown in temperate, subtropical, and highland tropical regions.
+Optimal tuberization occurs when soil temperatures remain between 15°C and 20°C.
+Soil requirements: Well-aerated sandy loam with pH 5.2–6.5. Low soil pH helps suppress common scab.
+
+--------------------------------------------------------------------------------
+2. POTATO EARLY BLIGHT (Alternaria solani)
+--------------------------------------------------------------------------------
+Pathogen Type: Fungal pathogen.
+Biology & Spread: Overwinters as fungal mycelium and conidia in infected crop residue, infected tubers, and solanaceous weeds.
+Wind and rain splash disseminate airborne spores. Disease pressure increases rapidly during alternating wet and dry weather cycles.
+
+Visual Symptoms:
+- Primary lesions appear on older, lower leaflets as small, brown-black circular or oval spots.
+- Lesions expand up to 10–15 mm across, restricted by leaf veins, forming diagnostic concentric target rings.
+- A yellow chlorotic border or halo surrounds the dark brown lesions.
+- Infected foliage gradually blights, dries to a paper-like crisp, and falls off.
+- Tubers can develop dark, sunken, circular lesions with raised purple-brown margins and dry, corky rot beneath the skin.
+
+Severity Level: Moderate to High. Causes premature plant senescence and reduced tuber bulk size.
+
+Organic Treatments:
+- Apply liquid copper hydroxide or Bordeaux mixture every 7–10 days during tuber initiation.
+- Spray horsetail (Equisetum) decoctions or biofungicides based on Bacillus pumilus or Trichoderma harzianum.
+- Maintain adequate nitrogen and potassium; nutrient-stressed vines are significantly more susceptible to early blight.
+
+Chemical Treatments:
+- Protective contact fungicides: Chlorothalonil (Bravo 720) or Mancozeb (Dithane M-45).
+- Translaminar & Systemic options: Azoxystrobin (Quadris), Boscalid (Endura), or Difenoconazole.
+- Alternate FRAC modes of action (FRAC 7, 11, 29) to mitigate resistance development.
+
+Preventive Agronomic Practices:
+- Rotate crops with corn, small grains (barley, oats), or legumes on a 3-year minimum rotation.
+- Avoid overhead irrigation late in the afternoon so foliage dries prior to nightfall.
+- Destroy and till under potato vines and volunteer potato tubers post-harvest.
+
+--------------------------------------------------------------------------------
+3. POTATO LATE BLIGHT (Phytophthora infestans)
+--------------------------------------------------------------------------------
+Pathogen Type: Oomycete (water mold).
+Biology & Spread: The infamous pathogen responsible for the Irish Potato Famine. Produces motile biflagellated zoospores.
+Optimal infection conditions: temperatures between 10°C and 21°C combined with persistent leaf moisture or relative humidity >90%.
+
+Visual Symptoms:
+- Water-soaked, pale-green to greyish lesions rapidly expanding from leaflet tips or margins.
+- Lesions turn into large, irregular, dark brown to jet-black necrotic areas.
+- Under humid conditions, a fine white powdery down (sporulation) appears on the lower leaf surface bordering the dead tissue.
+- Stem lesions appear as greasy, brittle, dark brown girdling cankers.
+- Tubers develop shallow, irregular, sunken areas with brown to reddish granular decay extending into the flesh.
+
+Severity Level: CRITICAL / Extremely Severe. Can destroy entire fields in less than a week.
+
+Organic Treatments:
+- Preventative sprays with copper fungicides before rainy spells.
+- Rogue and destroy all infected foliage immediately upon detection.
+- Flamers or mechanical vine desiccants to kill infected haulms 2 weeks prior to harvest to prevent tuber infection.
+
+Chemical Treatments:
+- Curative/Translaminar fungicides: Metalaxyl-M / Mefenoxam (Ridomil Gold MZ), Cymoxanil (Curzate 60DF), or Mandipropamid (Revus).
+- Anti-sporulant fungicides: Fluazinam (Omega 500F) or Cyazofamid (Ranman).
+- Never apply single-site systemic fungicides alone; always tank-mix with Mancozeb.
+
+Preventive Agronomic Practices:
+- Plant only certified disease-free seed tubers with blue label certification.
+- Destroy cull piles, rock piles, and volunteer potato patches by burying under at least 2 feet of soil or treating with herbicide.
+- Hilling up soil deeply around tuber rows protects developing potatoes from spore wash-off.
+
+--------------------------------------------------------------------------------
+4. POTATO BLACK SCURF AND STEM CANKER (Rhizoctonia solani)
+--------------------------------------------------------------------------------
+Pathogen Type: Soil-borne fungus.
+Visual Symptoms:
+- Stunted shoots, delayed emergence, and brown sunken lesions on underground sprouts and stolons.
+- Aerial tubers forming in leaf axils.
+- Irregular, hard, black sclerotia resembling "dirt that won't wash off" on harvested tuber skin.
+
+Organic & Preventative Solutions:
+- Plant seed in warm soils (>10°C) to accelerate emergence.
+- Crop rotation with brassicas (mustard cover crops) that produce bio-fumigant glucosinolates.
+- Seed tuber treatment with biological antagonist Trichoderma viride.
+
+--------------------------------------------------------------------------------
+5. POTATO HEALTHY FOLIAGE CARE
+--------------------------------------------------------------------------------
+Foliage Characteristics: Deep green compound leaves, vigorous upright stems, robust floral blossoms during tuber bulking, absence of yellowing or necrotic spotting.
+Fertilization & Irrigation:
+- Balanced basal fertilizer (e.g., 10-20-20 NPK) supplemented with foliar potassium and magnesium.
+- Maintain consistent soil moisture at 65–75% field capacity during tuber set to avoid hollow heart and cracking.

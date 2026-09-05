@@ -1,0 +1,107 @@
+================================================================================
+RICE CROP AGRONOMY AND PATHOLOGY KNOWLEDGE BASE
+Reference Manual for Paddy Rice Disease Diagnosis, Epidemiology & Integrated Pest Management
+================================================================================
+
+1. OVERVIEW OF RICE (Oryza sativa)
+Rice is the primary dietary calorie source for more than half of the human population.
+Grown under flooded lowland paddy or upland aerobic conditions.
+Key growing requirements: high temperatures (20°C–35°C), high solar radiation during grain filling, and abundant water.
+Common yield-limiting factors: fungal leaf blast, bacterial leaf blight, sheath blight, and brown spot.
+
+--------------------------------------------------------------------------------
+2. RICE BLAST (Magnaporthe oryzae / Pyricularia oryzae)
+--------------------------------------------------------------------------------
+Pathogen Type: Ascomycete fungus.
+Biology & Spread: Most destructive disease of cultivated rice globally. Can infect all aboveground plant parts (leaf, collar, node, neck panicle).
+Spreads by wind-borne conidia under high humidity (>90%) and daytime temperatures around 25°C–28°C.
+Exacerbated by excessive nitrogen fertilization and water stress in aerobic rice fields.
+
+Visual Symptoms:
+- Leaf Blast: Diamond-shaped or spindle/elliptical lesions with gray-whitish necrotic centers and dark reddish-brown borders.
+- Yellow chlorotic halos often surround active expanding lesions.
+- Individual spots coalesce, killing large sections of the leaf blade and causing a burnt scorched appearance ("blast").
+- Collar Blast: Dark brown rot at the leaf sheath junction, causing the entire leaf blade to drop off.
+- Neck Blast: Dark brown to black rot at the base of the panicle ("rotten neck"), causing empty whitehead grains and panicle breakage.
+
+Severity Level: CRITICAL / Epidemic Potential. Can result in total crop failure within days.
+
+Organic Treatments:
+- Apply silicon fertilizers (calcium silicate slag or potassium silicate) at 200–500 kg/ha to strengthen epidermal silica cells against fungal penetration.
+- Foliar sprays of bio-fungicides formulated with Pseudomonas fluorescens or Bacillus subtilis.
+- Treat paddy water with neem cake extract.
+
+Chemical Treatments:
+- Systemic anti-blast fungicides: Tricyclazole 75% WP, Isoprothiolane 40% EC, or Kasugamycin 3% SL.
+- Strobilurin/Azole combinations: Azoxystrobin + Difenoconazole or Trifloxystrobin + Tebuconazole (Nativo 75 WG).
+- Optimal spray timing: Early tillering stage for leaf blast, and 5% heading stage for neck blast prevention.
+
+Preventive Agronomic Practices:
+- Plant blast-resistant rice cultivars with durable broad-spectrum resistance genes (e.g., Pi-ta, Pi-b, Pi-z).
+- Avoid excessive urea applications; split nitrogen into 3–4 micro-doses instead of heavy single applications.
+- Maintain continuous shallow flooding (3–5 cm) in lowland paddies, as flooded soil suppresses spore germination.
+
+--------------------------------------------------------------------------------
+3. BACTERIAL LEAF BLIGHT (Xanthomonas oryzae pv. oryzae)
+--------------------------------------------------------------------------------
+Pathogen Type: Bacterium.
+Biology & Spread: Systemic vascular disease entering through hydathodes or wounds (often after typhoons or severe windstorms).
+Favored by high temperature (25°C–34°C), relative humidity >70%, and standing water in flooded nurseries.
+
+Visual Symptoms:
+- Water-soaked to yellowish-green stripes initiating at leaflet margins near the tip.
+- Stripes enlarge along veins, develop wavy margins, and turn milky-white to straw-yellow.
+- Golden-yellow beads of bacterial slime (exudate) ooze from young lesions in the early morning dew.
+- "Kresek" phase in seedlings: Rapid wilting, leaf roll, and death of whole hills within 1–3 weeks of transplanting.
+
+Severity Level: High. Yield loss typically ranges from 20% to 50%.
+
+Organic Treatments:
+- Spray fresh cow dung slurry extract (5%) mixed with neem oil (folk prophylactic method with documented antagonistic microbes).
+- Treat nursery seedlings with biocontrol strain Bacillus amyloliquefaciens.
+
+Chemical Treatments:
+- Copper oxychloride 50% WP mixed with Streptomycin sulfate + Tetracycline hydrochloride (Streptocycline at 6 g / 100 liters water).
+- Spray Validamycin or Plantomycin at first onset of lesion elongation.
+
+Preventive Agronomic Practices:
+- Select varieties harboring bacterial blight resistance genes (Xa4, xa5, Xa21).
+- Practice wide hill spacing (20 cm x 15 cm or 20 cm x 20 cm) for canopy aeration.
+- Drain flooded paddy for 3–5 days (alternate wetting and drying) to suppress bacterial multiplication.
+
+--------------------------------------------------------------------------------
+4. RICE BROWN SPOT (Bipolaris oryzae / Cochliobolus miyabeanus)
+--------------------------------------------------------------------------------
+Pathogen Type: Fungal pathogen.
+Biology & Spread: Chronic disease historically associated with the 1943 Great Bengal Famine. Typically indicates nutritional deficiency (potassium, silicon, manganese) or poor sandy soils.
+
+Visual Symptoms:
+- Numerous small, oval or circular dark brown sesame seed-like spots scattered across leaf blades and glumes.
+- Mature spots have a grey to whitish center with a dark brown or reddish-brown margin and yellow halo.
+- Infected grains become dark, discolored, and chalky, reducing milling quality.
+
+Treatment & Management:
+- Correct soil fertility: Apply muriate of potash (potassium) and farmyard manure.
+- Seed dressing with Carbendazim + Mancozeb (Saaf) at 2 g/kg seed before sowing.
+- Foliar sprays of Propiconazole 25% EC (Tilt) or Mancozeb.
+
+--------------------------------------------------------------------------------
+5. RICE SHEATH BLIGHT (Rhizoctonia solani)
+--------------------------------------------------------------------------------
+Pathogen Type: Soil and water-borne fungus.
+Visual Symptoms:
+- Oval or snake-skin shaped greenish-grey lesions on leaf sheaths near water line.
+- Lesions spread upward to leaf blades, showing bleached centers with dark purplish-brown borders.
+- Fungal web and small brown mustard-seed-like sclerotia form on affected sheaths.
+
+Treatment & Management:
+- Spray Validamycin 3% L or Hexaconazole 5% EC at early tillering.
+- Deep summer plowing to bury sclerotia.
+
+--------------------------------------------------------------------------------
+6. RICE HEALTHY PADDY CARE
+--------------------------------------------------------------------------------
+Foliage Characteristics: Upright, vibrant emerald-green leaves with uniform canopy height, strong tillers, and clean leaf sheaths.
+Agronomic Practices:
+- Apply balanced N-P-K (e.g., 120-60-40 kg/ha) with zinc sulfate (25 kg/ha) basal application.
+- Implement System of Rice Intensification (SRI) with single seedling transplanting and intermittent irrigation to boost root oxygenation.

@@ -1,0 +1,22 @@
+Accuracy: 25.00%
+Top-3 Accuracy: 66.67%
+Loss: 2.2491
+
+                         precision    recall  f1-score   support
+
+  Tomato___Early_blight       0.60      0.75      0.67         4
+   Tomato___Late_blight       0.00      0.00      0.00         4
+Tomato___Bacterial_spot       1.00      0.25      0.40         4
+     Tomato___Leaf_Mold       0.00      0.00      0.00         4
+       Tomato___healthy       0.00      0.00      0.00         4
+  Potato___Early_blight       0.00      0.00      0.00         4
+   Potato___Late_blight       0.00      0.00      0.00         4
+       Potato___healthy       0.16      1.00      0.28         4
+      Rice___Leaf_Blast       0.00      0.00      0.00         4
+Rice___Bacterial_blight       0.00      0.00      0.00         4
+      Rice___Brown_spot       0.00      0.00      0.00         4
+         Rice___healthy       0.25      1.00      0.40         4
+
+               accuracy                           0.25        48
+              macro avg       0.17      0.25      0.15        48
+           weighted avg       0.17      0.25      0.15        48

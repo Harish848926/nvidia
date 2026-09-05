@@ -8,7 +8,7 @@ set -e
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 cd "$SCRIPT_DIR"
 
-# 1. Virtual Environment Setup (Checks for venv or .venv)
+# 1. Virtual Environment Setup (Checks for or auto-creates venv)
 if [ -d "venv" ]; then
     echo "[run.sh] Activating virtual environment (venv)..."
     source venv/bin/activate
@@ -16,7 +16,14 @@ elif [ -d ".venv" ]; then
     echo "[run.sh] Activating virtual environment (.venv)..."
     source .venv/bin/activate
 else
-    echo "[run.sh] No venv found. Checking Python environment..."
+    echo "[run.sh] No virtual environment found. Creating 'venv' to prevent PEP 668 conflicts..."
+    (python3 -m venv venv || python -m venv venv) 2>/dev/null || true
+    if [ -f "venv/bin/activate" ]; then
+        source venv/bin/activate
+        echo "[run.sh] Virtual environment 'venv' created and activated successfully."
+    else
+        echo "[run.sh] Note: Could not auto-create venv. Running with system Python."
+    fi
 fi
 
 # Ensure Python 3
@@ -29,7 +36,7 @@ fi
 # 2. Check & Install Critical Requirements
 if ! $PYTHON_BIN -c "import PIL, torch, streamlit" 2>/dev/null; then
     echo "[run.sh] Installing missing dependencies from requirements.txt..."
-    pip install -r requirements.txt
+    pip install -r requirements.txt 2>/dev/null || pip install --break-system-packages -r requirements.txt
 fi
 
 # 3. Argument Dispatcher

@@ -134,15 +134,33 @@ def main():
             if input_type == "Upload Leaf Photo":
                 file = st.file_uploader("Upload leaf image (JPG, PNG, WEBP)", type=["jpg", "jpeg", "png", "webp"])
                 if file:
-                    selected_image = Image.open(file).convert("RGB")
-                    st.image(selected_image, caption="Uploaded Leaf", use_container_width=True)
+                    try:
+                        selected_image = Image.open(file).convert("RGB")
+                        st.image(selected_image, caption="Uploaded Leaf", use_container_width=True)
+                    except Exception as e:
+                        st.error(f"Error loading uploaded image: {e}")
             else:
+                # Ensure samples exist
                 sample_files = sorted(list(samples_dir.glob("*.jpg")))
-                sample_names = [f.stem.replace("___", " - ").replace("_", " ") for f in sample_files]
-                idx = st.selectbox("Choose sample:", range(len(sample_names)), format_func=lambda i: sample_names[i])
-                if idx is not None:
-                    selected_image = Image.open(sample_files[idx]).convert("RGB")
-                    st.image(selected_image, caption=f"Sample: {sample_names[idx]}", use_container_width=True)
+                if not sample_files:
+                    with st.spinner("Generating sample leaves..."):
+                        for c in CLASSES:
+                            leaf = synthesize_leaf(c, size=256)
+                            leaf.save(samples_dir / f"{c}.jpg")
+                        sample_files = sorted(list(samples_dir.glob("*.jpg")))
+
+                if sample_files:
+                    sample_map = {f.stem.replace("___", " - ").replace("_", " "): f for f in sample_files}
+                    chosen_name = st.selectbox("Choose sample leaf:", list(sample_map.keys()))
+                    if chosen_name:
+                        chosen_path = sample_map[chosen_name]
+                        try:
+                            selected_image = Image.open(chosen_path).convert("RGB")
+                            st.image(selected_image, caption=f"Sample: {chosen_name}", use_container_width=True)
+                        except Exception as e:
+                            st.error(f"Error loading sample image: {e}")
+                else:
+                    st.warning("No sample images available. Please upload a leaf photo.")
 
         with col2:
             st.subheader("2. Diagnosis & Agronomy Report")

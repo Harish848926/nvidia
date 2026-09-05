@@ -48,4 +48,4 @@ $CONTAINER_CMD exec \
     --bind "$SCRIPT_DIR:/workspace" \
     --pwd /workspace \
     "$TARGET_IMAGE" \
-    bash -c "pip install -q -r requirements.txt && streamlit run app.py --server.port 8501 --server.address 0.0.0.0"
+    bash -c "export PATH=\"\$HOME/.local/bin:\$PATH\"; pip install -q -r requirements.txt && python3 -m streamlit run app.py --server.port 8501 --server.address 0.0.0.0"

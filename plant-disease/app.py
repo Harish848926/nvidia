@@ -393,6 +393,6 @@ if __name__ == "__main__":
             else:
                 import subprocess
                 print("[App] Launching Streamlit web interface on http://localhost:8501 ...")
-                subprocess.run(["streamlit", "run", str(Path(__file__).resolve()), "--server.port=8501", "--server.address=0.0.0.0"])
+                subprocess.run([sys.executable, "-m", "streamlit", "run", str(Path(__file__).resolve()), "--server.port=8501", "--server.address=0.0.0.0"])
         except Exception:
             main()

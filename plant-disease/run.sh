@@ -37,7 +37,8 @@ fi
 if ! $PYTHON_BIN -c "import PIL, torch, streamlit" 2>/dev/null; then
     echo "[run.sh] Installing missing dependencies from requirements.txt..."
     pip install -r requirements.txt 2>/dev/null || pip install --break-system-packages -r requirements.txt
-fi
+# Ensure ~/.local/bin is in PATH for user-installed pip binaries
+export PATH="$HOME/.local/bin:$PATH"
 
 # 3. Argument Dispatcher
 MODE="${1:-app}"
@@ -48,7 +49,7 @@ case "$MODE" in
         echo " 🌿 Starting PlantAI Vision Web Application on DGX"
         echo " 👉 Local URL: http://localhost:8501"
         echo "================================================================="
-        exec streamlit run app.py --server.port 8501 --server.address 0.0.0.0
+        exec "$PYTHON_BIN" -m streamlit run app.py --server.port 8501 --server.address 0.0.0.0
         ;;
     train)
         shift
